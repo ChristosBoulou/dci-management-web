@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# DCI-MANAGEMENT
+### ΣΤΡΑΤΗΓΙΚΗ ΔΙΑΧΕΙΡΙΣΗ
 
-You can use the [editor on GitHub](https://github.com/ChristosBoulou/dci-management-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Από τη λήψη στρατηγικών αποφάσεων για την ανάπτυξη των δυνατοτήτων σας, Είμαστε εδώ για να βοηθήσουμε. Χρησιμοποιώντας την τεχνογνωσία μας και την βαθιά κατανόηση του κλάδου, θα λάβετε πραγματικές λύσεις και θα έχετε πραγματικά αποτελέσματα. Λάβετε επαφή για να κλείσετε μια συνάντηση.
 
 ### Markdown
 
